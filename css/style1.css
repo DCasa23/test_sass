@@ -1,9 +1,9 @@
-/* line 5, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 6, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .contenedor, .contenedor-con-altura {
   width: 1280px;
 }
 
-/* line 9, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 10, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 h1,
 h2,
 h3,
@@ -11,177 +11,177 @@ p {
   color: #AAAABB;
 }
 
-/* line 16, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 17, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .contenedor-con-altura {
   height: 514px;
 }
 
-/* line 21, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 22, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 ul {
   font-size: 1.2rem;
   color: red;
 }
 
-/* line 25, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 26, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 ul ul {
   font-size: 0.7rem;
   color: green;
 }
 
-/* line 29, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 30, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 ul ul ul {
   font-size: 0.2rem;
   color: blue;
 }
 
-/* line 33, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 34, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 ul ul ul ul {
   color: grey;
 }
 
-/* line 40, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 41, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 a {
   color: blue;
   text-decoration: none;
   font-size: 1.2rem;
 }
 
-/* line 45, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 46, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 a:hover {
   color: green;
   text-decoration: underline;
 }
 
-/* line 50, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 51, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 a:focus {
   color: red;
   text-decoration: none;
 }
 
-/* line 55, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 56, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 a.enlace_propio {
   color: yellowgreen;
 }
 
-/* line 61, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 62, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .mitad {
   width: 640px px;
 }
 
-/* line 65, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 66, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .cuarto {
   width: 320px px;
 }
 
-/* line 69, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 70, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .octavo {
   width: 160px px;
 }
 
-/* line 77, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 78, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .decimo {
   width: 128px;
 }
 
-/* line 88, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 84, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .box {
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  border-radius: 8px;
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-2 {
   width: "50%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-3 {
   width: "33.33333%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-4 {
   width: "25%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-5 {
   width: "20%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-6 {
   width: "16.66667%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-7 {
   width: "14.28571%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-8 {
   width: "12.5%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-9 {
   width: "11.11111%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-10 {
   width: "10%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-11 {
   width: "9.09091%";
 }
 
-/* line 93, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 89, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-12 {
   width: "8.33333%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-5 {
   width: "20%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-6 {
   width: "16.66667%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-7 {
   width: "14.28571%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-8 {
   width: "12.5%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-9 {
   width: "11.11111%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-10 {
   width: "10%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-11 {
   width: "9.09091%";
 }
 
-/* line 101, ../../../Desktop/SASS/test_sass/sass/style1.scss */
+/* line 97, ../../../Desktop/SASS/test_sass/sass/style1.scss */
 .col-while-12 {
   width: "8.33333%";
 }

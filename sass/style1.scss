@@ -1,3 +1,4 @@
+@import "mixins.scss";
 $color-letra: #AAAABB;
 $ancho: 1280px;
 $altura: 514px;
@@ -78,15 +79,10 @@ a {
     width: partir($ancho, 10);
 }
 
-@mixin border-radius($radius) {
-    -webkit-border-radius: $radius;
-    -moz-border-radius: $radius;
-    -ms-border-radius: $radius;
-    border-radius: $radius;
-}
+
 
 .box {
-    @include border-radius(5px);
+    @include border-radius(8px);
 }
 
 @for $p from 2 through 12 {
