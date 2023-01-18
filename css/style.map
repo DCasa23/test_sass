@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"$color-letra: #AAAAAA;\n$ancho: 1024px;\n$altura: 514px;\n\n.contenedor {\n    width: $ancho; }\n\n\nh1,h2,h3,p {\n    color: $color-letra; }\n\n.contenedor-con-altura {\n    @extend .contenedor;\n    height: $altura; }\n\nul {\n    font-size: 1.2rem;\n    color: red;\n\n    ul {\n        font-size: 0.7rem;\n        color: green;\n\n        ul {\n            font-size: 0.2rem;\n            color: blue; } } }\n\n\n"
+	],
+	"names": [],
+	"mappings": ";AAIA,AAAA,WAAW,EAOX,sBAAsB,CAPV;EACR,KAAK,EAJD,MAAM;CAIM;;;AAGpB,AAAA,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,CAAC,CAAC;EACP,KAAK,EATK,OAAO;CASK;;;AAE1B,AAAA,sBAAsB,CAAC;EAEnB,MAAM,EAXD,KAAK;CAWQ;;;AAEtB,AAAA,EAAE,CAAC;EACC,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,GAAG;CAQgB;;;AAV9B,AAII,EAJF,CAIE,EAAE,CAAC;EACC,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,KAAK;CAIQ;;;AAV5B,AAQQ,EARN,CAIE,EAAE,CAIE,EAAE,CAAC;EACC,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,IAAI;CAAG"
+}
